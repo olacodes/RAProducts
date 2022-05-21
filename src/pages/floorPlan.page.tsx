@@ -3,7 +3,7 @@ import { Center, Text } from "native-base";
 const FloorPlanPage = () => {
   return (
     <Center>
-      <Text>Hello Appliances Page</Text>
+      <Text>Hello Floor Plan Page</Text>
     </Center>
   );
 };
